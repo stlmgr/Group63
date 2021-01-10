@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: kosmas
+Build-Jdk: 11.0.7
+Implementation-Title: ProductManager
+Implementation-Version: 2.0
+Implementation-Vendor-Id: net.codejava
+Main-Class: ${start-class}
+
